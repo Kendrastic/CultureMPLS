@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
@@ -97,3 +98,31 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 The fastest way to combine your favorite tools and APIs to build the fastest sites, stores, and apps for the web. And also the best place to build, deploy, and host your Gatsby sites.
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+=======
+# CultureMPLS
+CultureMPLS Website
+
+CultureMPLS
+CultureMPLS is a website that provides information on events, news, and other cultural happenings in and arround Minneapolis, Minnesota. This website is built using Gatsby and React.
+
+Getting started
+To get started with CultureMPLS, follow these steps:
+
+Clone this repository
+Install dependencies by running npm install
+Start the development server by running npm run develop
+Contributing
+Contributions to CultureMPLS are welcome! To contribute, follow these steps:
+
+Fork this repository
+Create a new branch for your feature or bug fix
+Make your changes and commit them
+Push your changes to your forked repository
+Submit a pull request to this repository
+License
+This project is licensed under the MIT license.
+
+Acknowledgments
+The Gatsby and React teams for their great work
+The contributors to the open source libraries used in this project
+>>>>>>> d35afc19c70be21dca11f96934afe63150d83d91
